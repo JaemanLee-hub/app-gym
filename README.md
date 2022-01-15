@@ -27,3 +27,11 @@ $git commit -m "메세지"
 ```
 npx create-react-app .  ->  리액트 환경 설치
 ```
+
+커밋들 리모트 서버로 올리기
+
+```
+$git push origin feature/이슈번호
+```
+
+pull request 코드 - 리뷰어 지정
