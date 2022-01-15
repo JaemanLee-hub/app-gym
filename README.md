@@ -23,3 +23,7 @@ $git checkout -b feature/이슈번호
 $git add .
 $git commit -m "메세지"
 ```
+
+```
+npx create-react-app .  ->  리액트 환경 설치
+```
