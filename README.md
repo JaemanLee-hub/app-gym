@@ -22,6 +22,7 @@ $git checkout -b feature/이슈번호
 ```
 $git add .
 $git commit -m "메세지"
+$git fetch -> 깃 서버 최신정보 가져온다
 ```
 
 ```
