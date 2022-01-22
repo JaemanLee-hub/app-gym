@@ -46,3 +46,8 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 -> 그냥 내 닉네임
 ```
+
+```
+git fetch 
+-> 깃 서버 브랜치 최신화
+```
